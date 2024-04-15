@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Holleringspi
 - 👀 I’m interested in chess, gaming, books and working out
-- 🌱 I’m currently learning SQL coding
-- 💞️ I’m looking to collaborate on low level SQL coding
+- 🌱 I’m currently learning Python coding
+- 💞️ I’m looking to collaborate on low level Python coding as I begin my coding journey.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am still in the very early stages of learning about coding.
 
